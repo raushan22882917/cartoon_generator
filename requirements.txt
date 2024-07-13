@@ -9,3 +9,4 @@ scikit-video
 tf_slim
 PyYaml
 flask-ngrok
+gunicorn
